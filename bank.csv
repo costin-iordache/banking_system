@@ -1,0 +1,8 @@
+accountNumber,balance,ownerName,accountType,currency
+1,1000,John Doe,bank,EUR
+2,1029,Ann Sam,savings,EUR
+7682,2500.5,Mary Johnson,bank,RON
+4829,15000,Kevin Brown,savings,RON
+3145,500.75,Sarah Miller,bank,EUR
+8910,3000,Emily Davis,savings,RON
+2271,1250.35,Michael Wilson,bank,RON
